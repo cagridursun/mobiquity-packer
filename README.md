@@ -55,7 +55,7 @@ numbers are separated by comma). E.g.
 2. There might be up to 15 items you need to choose from
 3. Max weight and cost of an item is ≤ 100
 
-###Built with
+### Built with
 * Java 11
 * Gradle
 * Junit4
